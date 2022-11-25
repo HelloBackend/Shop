@@ -13,4 +13,3 @@
 - MariaDB 10.9
 - Tomcat(SpringBoot supported)
 - IntelliJ Ultimate 2022
-
